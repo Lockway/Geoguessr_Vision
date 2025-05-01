@@ -9,3 +9,4 @@
 - Handpicked from Google Street View
 - 240 training images for each class
 - 100 test images for each class
+- Uploaded on Kaggle [[Link]](https://www.kaggle.com/datasets/lockway/climate-image-classification)
